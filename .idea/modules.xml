@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ejercicios Sokes/BuscarPalbraArchivosDirectorio/BuscarPalbraArchivosDirectorio.iml" filepath="$PROJECT_DIR$/ejercicios Sokes/BuscarPalbraArchivosDirectorio/BuscarPalbraArchivosDirectorio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Taller-Hilos-y-sokests.iml" filepath="$PROJECT_DIR$/.idea/Taller-Hilos-y-sokests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ejercicios Sokes/ejercicios_Sokes.iml" filepath="$PROJECT_DIR$/ejercicios Sokes/ejercicios_Sokes.iml" />
+    </modules>
+  </component>
+</project>
